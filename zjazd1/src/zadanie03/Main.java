@@ -3,7 +3,7 @@ package zadanie03;
 public class Main {
 
     public static void main(String[] args) {
-        int[] table = {-7, 0, -6};
+        int[] table = {-7, -3, -6};
         System.out.println(max(table));
     }
 

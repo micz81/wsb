@@ -1,7 +1,5 @@
 package zadanie04;
 
-import java.util.Arrays;
-
 public class DynamicTable {
     private static double[] table = new double[0];
 
